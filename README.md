@@ -21,4 +21,4 @@ The documentation covers:
     * DFD Diagrams.
 
 ## 📁 Files
-* [Download Full SRS PDF](./Online-Bill-Payment-System-SRS.pdf)
+[Download Full SRS PDF](./Online-Bill-Payment-System-SRS.pdf)
